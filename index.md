@@ -1,5 +1,3 @@
 ## Welcome to CanuteTheGreat's GitHub Page
 
-Not much here for now...
-
-[GitHub Page](https://github.com/CanuteTheGreat).
+Most of the repos that were here have been migrated to [Git](https://git.canutethegreat.com).
